@@ -3,12 +3,12 @@
 # done
 
 # for i in {1..20};
-# do ln -s "$i/$i.txt" "$i.txt";
+# do ln -s "$i/$i.txt" "$i.txt"
 # done
 
-# for i in {1..20};
+# for i in {1.20};
 # do echo "$i/$i.txt" > "$i/$i.txt";
-# done
+# done 
 
 # for i in {1..20};
 # do
