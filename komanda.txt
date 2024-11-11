@@ -1,1 +1,1 @@
-chmod g+r script.sh
+chmod 301 script.sh
